@@ -1,4 +1,4 @@
-#Experiment 6: PAGE RANKING ALGORITHM
+#Experiment 6: PAGE RANKING ALGORITHM.
 
 #Q. Write a python program to find the ranks for the given graph. Use the damping factor as d = 0.85. 
 Perform 7 iteration and print the final iteration value only.
