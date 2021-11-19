@@ -1,11 +1,11 @@
 #Experiment 1: Stop word removal and tokenization
 
 #1. Write a program to remove the stopwords for any given paragraph.
-Create a set of stop words given below and print the output
-stop_words = [',,,,'a','they','the','his','so','and','were','from','that','of','in','only','with','to'].
+#Create a set of stop words given below and print the output
+#stop_words = [',,,,'a','they','the','his','so','and','were','from','that','of','in','only','with','to'].
 
 #2. Write a program to tokenize
-a) A sentence b) Multiple sentences (Without Nltk)
+#a) A sentence b) Multiple sentences (Without Nltk)
 
 
 #Solution:
