@@ -3,7 +3,8 @@
 
 #K-clustering
 
-#Q. Using K-means clustering algorithm to classify the Iris data into various classes/ clusters. Consider both cases with K = 3 and 4; """
+#Q. Using K-means clustering algorithm to classify the Iris data into various classes/ clusters. Consider both cases with K = 3 and 4;
+"""
 • Use any of the Toolkits / Packages to perform the process
 • Print out the Accuracy and Confusion Matrix of Classification
 • Document the step by step process and upload with output and Code
