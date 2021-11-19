@@ -1,17 +1,17 @@
-Experiment 1: Stop word removal and tokenization
+#Experiment 1: Stop word removal and tokenization
 
-1. Write a program to remove the stopwords for any given paragraph.
+#1. Write a program to remove the stopwords for any given paragraph.
 Create a set of stop words given below and print the output
 stop_words = [',,,,'a','they','the','his','so','and','were','from','that','of','in','only','with','to'].
 
-2. Write a program to tokenize
+#2. Write a program to tokenize
 a) A sentence b) Multiple sentences (Without Nltk)
 
 
-Solution:
+#Solution:
 
 
-1(a).Stop Words removal from a paragraph.
+#1(a).Stop Words removal from a paragraph.
 
 from nltk.corpus import stopwords 
 from nltk.tokenize import word_tokenize 
@@ -33,7 +33,7 @@ print(fs)
 
 
 
-1(b). Create a set of stop words given below and print the output.
+#1(b). Create a set of stop words given below and print the output.
 
 stop_words['.', ',', 'a', 'they', 'the', 'his', 'so', 'and', 'were', 'from', 
 'that', 'of', 'in', 'only', 'with', 'to']
@@ -55,7 +55,7 @@ print(fs)
 
 
 
-2(a,b). Write a program to tokenise a sentence(using nltk).
+#2(a,b). Write a program to tokenise a sentence(using nltk).
 
 from nltk.corpus import stopwords 
 from nltk.tokenize import word_tokenize 
@@ -66,7 +66,7 @@ print (nltk_tokens)
 
 
 
-2(c). Write a program to tokenize multiple sentences without using nltk.
+#2(c). Write a program to tokenize multiple sentences without using nltk.
 
 text = """the quick brown fox jumps over a lazy dog.the five boxing wizards jump 
 quickly"""
