@@ -112,7 +112,8 @@ ______________________
 
 # NAÏVE BAIYES
 
-#Q. Write a code to build a Navie Bayes Classifier for categorising the flowers collected from Iris Data Set into """
+#Q. Write a code to build a Navie Bayes Classifier for categorising the flowers collected from Iris Data Set into
+"""
 a) Use any of the Toolkit / Package to perform the process
 b) Print out the Accuracy and Confusion Matrix of Classification
 c) Document the step by step process and upload with output and Code """
