@@ -142,5 +142,5 @@ print(metrics.confusion_matrix(expected, predicted))#confusion matrix
 Documentation:
 1. All the required libraries (numpy, pandas, matplotib) are imported, followed by the dataset. 
 2. The dataset thus has been split, feature scaled (using sklearn), followed by training the naïve bayes classification model.
-3. Finally predicting the test dataset results, formation of confusion matrix, and accuracy of the model (here, 96%).
+3. Finally predicting the test dataset results, formation of confusion matrix, and accuracy of the model (here, 96%). """
 
