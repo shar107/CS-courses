@@ -81,6 +81,5 @@ html=urlopen('https://vit.ac.in')
 bs=BeautifulSoup(html, 'html.parser')
 title=bs.find_all(['h1'])
 print("First h1 tag: "+ str(title[0])+"\n")
-print("Length of the text of the first <h1> tag of a given html source code (URL 
-source code): ", end='')
+print("Length of the text of the first <h1> tag of a given html source code (URL source code): ", end='')
 print(len(str(title[0]))-9)
